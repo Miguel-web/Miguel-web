@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Miguel Gil F</h1>
 <h3 align="center">Student Full Stack Developer</h3>
 
-<p align="left"></p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=miguel-web&label=Profile%20views&color=0e75b6&style=flat" alt="miguel-web" /></p>
 
 - 📫 How to reach me **miguelgilf@gmail.com**
 
