@@ -1,9 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/fd/c5/d7/fdc5d7cf41e49a3b9127a3ff8f462dc3.gif)
 <h1 align="center">Hi, I'm Miguel Gil F</h1>
 <h3 align="center">Student Full Stack Developer</h3>
-
-<p><img src="https://komarev.com/ghpvc/?username=miguel-web&label=Profile%20views&color=0e75b6&style=flat" alt="miguel-web" /></p>
-
 - 📫 How to reach me **miguelgilf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
