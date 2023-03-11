@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/fd/c5/d7/fdc5d7cf41e49a3b9127a3ff8f462dc3.gif)
-<h1 align="center">Hi, I'm Miguel Gil F</h1>
+<h1 align="center">Hi, I'm Miguel Gil F.</h1>
 <h3 align="center">Student Full Stack Developer</h3>
 - 📫 How to reach me **miguelgilf@gmail.com**
 
