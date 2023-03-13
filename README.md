@@ -1,4 +1,4 @@
-![MasterHead](banner linkedin.png)
+![MasterHead]<img src="banner linkedin.png" alt=""/>
 <h1 align="center">Hi, I'm Miguel Gil F.</h1>
 <h3 align="center">Student Full Stack Developer</h3>
 - 📫 How to reach me: miguelgilf@gmail.com
