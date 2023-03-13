@@ -1,4 +1,4 @@
-<img src="banner linkedin.png" alt=""/>
+<img src="" alt=""/>
 <h1 align="center">Hi, I'm Miguel Gil F.</h1>
 <h3 align="center">Student Full Stack Web Developer</h3>
 - 📫 How to reach me: miguelgilf@gmail.com
